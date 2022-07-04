@@ -41,9 +41,10 @@ function App() {
     <main>
       <br></br>
       <h1>Hello Friends</h1>
+      <h2>🪲 Its Weeble the Beetle 🐞</h2>
       <img src="https://cdn.pixabay.com/photo/2021/03/02/04/24/bee-6061458__480.png"/>
 
-      <h2>Some Quick Facts About Beetle</h2>
+      <h2>Let Me Tell You Some Quick Facts About Beetle</h2>
       <div>
         {users.map(user => (
             <div key={user.id}>
@@ -56,6 +57,7 @@ function App() {
       
       
       <h4>Made By Mon💕</h4>
+      <h4>ヽ(✿ﾟ▽ﾟ)ノ</h4>
       <h5>With React⚛️ + Replit🌀</h5>
       <br></br>
     </main>
